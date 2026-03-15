@@ -26,7 +26,7 @@ population-dynamics/
 │   ├── visualize.py    # Reusable plotting functions
 │   └── main.py         # Run all simulations → saves plots to results/plots/
 ├── notebooks/
-│   └── main.ipynb      # Original interactive analysis
+│   └── main.ipynb      # Step-by-step walkthrough of the full analysis
 ├── results/
 │   └── plots/          # Generated figures (see below)
 ├── requirements.txt
